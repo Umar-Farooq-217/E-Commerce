@@ -1,7 +1,9 @@
-import Image from "next/image";
+import Navbar from "./components/navbar/Navbar";
 
 export default function Home() {
   return (
-  <div className="bg-black min-w-full h-full text-9xl text-amber-600">ali</div>
+  <div className="bg-[rgba(0,0,0,0.8)] text-white px-9">
+    <Navbar/>
+  </div>
   );
 }
