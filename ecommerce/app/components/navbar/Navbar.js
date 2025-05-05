@@ -12,6 +12,7 @@ export default function Navbar() {
         <li>Marketplace</li>
         <li>Rankings</li>
         <li>Connect A Wallet</li>
+    <li></li>
         <Button src='/signUp.svg' pera='Sign Up' />
       </div>
     </div>
